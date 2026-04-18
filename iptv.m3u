@@ -1,3 +1,3 @@
-
-<!-- saved from url=(0087)http://line.tivi-ott.net/get.php?username=T341A&password=FADY1C&type=m3u_plus&output=ts -->
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body></body></html>
+#EXTM3U
+#EXTINF:-1, GTST Test Aflevering
+http://line.tivi-ott.net/series/T341A/FADY1C/153401.mp4
