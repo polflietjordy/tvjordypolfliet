@@ -1,3 +1,63 @@
 #EXTM3U
-#EXTINF:-1, GTST Test Aflevering
+#EXTM3U
+
+#EXTINF:-1, --- FAVORIETEN & SERIES ---
+#EXTINF:-1, GTST Aflevering (Test)
 http://line.tivi-ott.net/series/T341A/FADY1C/153401.mp4
+#EXTINF:-1, --- OPEN ALLE SERIES (Netflix/Disney+) ---
+http://line.tivi-ott.net/get.php?username=T341A&password=FADY1C&type=m3u_plus&output=ts&action=get_series
+
+#EXTINF:-1, --- BELGISCHE ZENDERS ---
+#EXTINF:-1, VTM HD
+http://line.tivi-ott.net/T341A/FADY1C/152
+#EXTINF:-1, Een HD
+http://line.tivi-ott.net/T341A/FADY1C/151
+#EXTINF:-1, Canvas HD
+http://line.tivi-ott.net/T341A/FADY1C/153
+#EXTINF:-1, Play 4 HD
+http://line.tivi-ott.net/T341A/FADY1C/156
+#EXTINF:-1, Play 5 HD
+http://line.tivi-ott.net/T341A/FADY1C/157
+#EXTINF:-1, Play 6 HD
+http://line.tivi-ott.net/T341A/FADY1C/158
+#EXTINF:-1, VTM 2 HD
+http://line.tivi-ott.net/T341A/FADY1C/154
+#EXTINF:-1, VTM 3 HD
+http://line.tivi-ott.net/T341A/FADY1C/155
+
+#EXTINF:-1, --- NEDERLANDSE ZENDERS ---
+#EXTINF:-1, NPO 1 HD
+http://line.tivi-ott.net/T341A/FADY1C/101
+#EXTINF:-1, NPO 2 HD
+http://line.tivi-ott.net/T341A/FADY1C/102
+#EXTINF:-1, NPO 3 HD
+http://line.tivi-ott.net/T341A/FADY1C/103
+#EXTINF:-1, RTL 4 HD
+http://line.tivi-ott.net/T341A/FADY1C/104
+#EXTINF:-1, RTL 5 HD
+http://line.tivi-ott.net/T341A/FADY1C/105
+#EXTINF:-1, RTL 7 HD
+http://line.tivi-ott.net/T341A/FADY1C/107
+#EXTINF:-1, RTL 8 HD
+http://line.tivi-ott.net/T341A/FADY1C/108
+#EXTINF:-1, SBS 6 HD
+http://line.tivi-ott.net/T341A/FADY1C/106
+#EXTINF:-1, Veronica HD
+http://line.tivi-ott.net/T341A/FADY1C/109
+
+#EXTINF:-1, --- SPORT ZENDERS ---
+#EXTINF:-1, ESPN 1 HD
+http://line.tivi-ott.net/T341A/FADY1C/201
+#EXTINF:-1, ESPN 2 HD
+http://line.tivi-ott.net/T341A/FADY1C/202
+#EXTINF:-1, ESPN 3 HD
+http://line.tivi-ott.net/T341A/FADY1C/203
+#EXTINF:-1, Ziggo Sport Select HD
+http://line.tivi-ott.net/T341A/FADY1C/251
+#EXTINF:-1, Ziggo Sport Voetbal HD
+http://line.tivi-ott.net/T341A/FADY1C/252
+#EXTINF:-1, Eurosport 1 HD
+http://line.tivi-ott.net/T341A/FADY1C/301
+
+#EXTINF:-1, --- OVERIGE LIVE TV (Lange laadtijd) ---
+http://line.tivi-ott.net/get.php?username=T341A&password=FADY1C&type=m3u_plus&output=ts
